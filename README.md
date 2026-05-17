@@ -20,7 +20,7 @@ Overall, this project serves as a beginner-friendly implementation for learning 
 This project uses two different radar datasets collected using the Infineon BGT60TR13C mmWave radar sensor.
 
 ### 1. angle_alwin1
-In this dataset, the target moves parallel to the radar while changing its angular position from approximately +32° to -30°. This dataset is mainly used for motion analysis, Doppler processing, target tracking, and DOA estimation during movement.
+In this dataset, the target moves parallel to the radar while changing its angular position from approximately +30° to -30°. This dataset is mainly used for motion analysis, Doppler processing, target tracking, and DOA estimation during movement.( the 30 degree is just an estimation )
 
 ### 2. static_alwin2
 In this dataset, the target stands static at approximately 30° relative to the radar. This dataset is mainly used for studying stationary target response, range estimation, and static DOA analysis.
