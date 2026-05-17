@@ -14,3 +14,13 @@ The project generates several radar visualization plots including:
 - MUSIC DOA Spectrum
 
 Overall, this project serves as a beginner-friendly implementation for learning FMCW radar DSP concepts such as Range FFT, Doppler FFT, beamforming, DOA estimation, target detection, and radar visualization using real mmWave radar data from the BGT60TR13C sensor.
+
+## Dataset Information
+
+This project uses two different radar datasets collected using the Infineon BGT60TR13C mmWave radar sensor.
+
+### 1. angle_alwin1
+In this dataset, the target moves parallel to the radar while changing its angular position from approximately +32° to -30°. This dataset is mainly used for motion analysis, Doppler processing, target tracking, and DOA estimation during movement.
+
+### 2. static_alwin2
+In this dataset, the target stands static at approximately 30° relative to the radar. This dataset is mainly used for studying stationary target response, range estimation, and static DOA analysis.
