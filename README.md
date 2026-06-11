@@ -1,4 +1,5 @@
 # FMCW mmWave Radar DSP using BGT60TR13C
+<img width="233" height="230" alt="image" src="https://github.com/user-attachments/assets/75bcb34b-69cd-46ec-87e4-035cfd5a1865" />
 
 This project focuses on Digital Signal Processing (DSP) using the Infineon BGT60TR13C and MATLAB to understand how FMCW radar detects human motion, velocity, range, and angle. The project processes raw radar ADC data and converts it into meaningful radar information using FFT-based signal processing techniques. The implementation is designed in a simple and beginner-friendly way to understand practical mmWave radar DSP.
 
